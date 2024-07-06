@@ -1,0 +1,4 @@
+
+##   Password: SecretPassword	Username: ADMIN	Found in file: C:/Users/Nick/Documents/GitHub\Python\FindPassword\textfile copy 2.data
+##   Password: SecretPassword	Username: ADMIN	Found in file: C:/Users/Nick/Documents/GitHub\Python\FindPassword\textfile copy 3.data
+##   Password: SecretPassword	Username: ADMIN	Found in file: C:/Users/Nick/Documents/GitHub\Python\FindPassword\textfile copy.data

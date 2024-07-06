@@ -1,0 +1,2 @@
+
+##   Password: SecretPassword	Username: ADMIN	Found in file: C:/Users/Nick/Documents\GitHub\Python\FindPassword\textfile copy.data
